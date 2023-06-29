@@ -1,7 +1,23 @@
 # Sentiment analysis with logistic regression
 
-In this [module](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1), I will learn how to extract features from text into numerical vectors, then build a binary classifier for tweets using a logistic regression model.
 
+In this [module](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1), I will learn how to extract features from text into numerical vectors, then build a binary classifier for tweets using a logistic regression model.
+## Table of Contents
+- [Sentiment analysis with logistic regression](#sentiment-analysis-with-logistic-regression)
+  - [Table of Contents](#table-of-contents)
+  - [Learning Objectives](#learning-objectives)
+  - [Lecture Notes](#lecture-notes)
+    - [Supervised ML \& Sentiment Analysis](#supervised-ml--sentiment-analysis)
+    - [Vocabulary \& Feature Extraction](#vocabulary--feature-extraction)
+    - [Negative and Positive Frequencies](#negative-and-positive-frequencies)
+    - [Feature Extraction with Frequencies](#feature-extraction-with-frequencies)
+    - [Preprocessing](#preprocessing)
+    - [Putting it all together](#putting-it-all-together)
+    - [Logistic Regression](#logistic-regression)
+      - [Overview](#overview)
+      - [Training](#training)
+      - [Testing](#testing)
+      - [Cost function](#cost-function)
 ## Learning Objectives
 
 - Sentiment analysis
