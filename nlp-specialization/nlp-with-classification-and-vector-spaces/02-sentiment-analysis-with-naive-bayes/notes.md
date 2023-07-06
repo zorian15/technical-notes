@@ -1,6 +1,6 @@
 # Sentiment analysis with naive bayes
 
-In this [module](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/1), I will learn how to extract features from text into numerical vectors, then build a binary classifier for tweets using a logistic regression model.
+In this [module](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/week/2), I will learn the theory behind Bayes' rule for conditional probabilities, then apply it towards building a Naive Bayes classifier.
 
 ## Table of Contents
 - [Sentiment analysis with naive bayes](#sentiment-analysis-with-naive-bayes)
